@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "UNDEAD (English Version)",
+  "base_artist": "YOASOBI",
+  "createdAt": "2026-03-05T02:04:56.596049Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "UNDEAD (English Version)",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/01_UNDEAD_(English_Version)_YOASOBI.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "UNDEAD - English Version",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/02_UNDEAD_-_English_Version_YOASOBI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "UNDEAD (English Version)",
+      "artist": "YOASOBI",
+      "has_synced": true,
+      "path": "select/03_UNDEAD_(English_Version)_YOASOBI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNDEAD (English Version)",
+      "artist": "YOASOBI",
+      "has_synced": false,
+      "path": "select/pl_01_UNDEAD_(English_Version)_YOASOBI.txt"
+    }
+  ]
+}
